@@ -1,0 +1,11 @@
+{
+  "name": "תזרים מזומנים",
+  "short_name": "תזרים",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f7f4",
+  "theme_color": "#145c47"
+}
